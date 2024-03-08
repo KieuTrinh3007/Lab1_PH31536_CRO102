@@ -1,0 +1,22 @@
+{
+  "staffs": [
+    {
+      "id": "1",
+      "hoTen": "Nguyễn Văn A",
+      "gioiTinh": "Nam",
+      "ngaySinh": "2004-02-05"
+    },
+    {
+      "hoTen": "Nguyễn Văn C",
+      "gioiTinh": "Nam",
+      "ngaySinh": "2003-02-07",
+      "id": "2"
+    },
+    {
+      "id": "c426",
+      "hoTen": "Trinh",
+      "gioiTinh": "Nữ",
+      "ngaySinh": "2004-07-30"
+    }
+  ]
+}
